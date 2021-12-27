@@ -57,3 +57,9 @@ go program demo with protobuf
 ## 运行可执行文件
 
 `./protobuf-go`
+
+## 参考
+
+[https://developers.google.com/protocol-buffers/docs/gotutorial](https://developers.google.com/protocol-buffers/docs/gotutorial)
+
+[https://github.com/golang/protobuf](https://github.com/golang/protobuf)
