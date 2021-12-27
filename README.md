@@ -22,7 +22,7 @@ go program demo with protobuf
 
 `go install google.golang.org/protobuf/cmd/protoc-gen-go@latest`
 
-#### 方法2. 从github下载源码(源码中附带编译好的二进制)
+#### 方法2. 从github下载源码并编译
 
 `git clone git@github.com:golang/protobuf.git`
 
