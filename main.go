@@ -5,8 +5,6 @@ import (
 	"io/ioutil"
 	"log"
 	"protobuf-go/protobuf/pb"
-
-	"google.golang.org/protobuf/proto"
 )
 
 const fname string = "./data/address_book.txt"

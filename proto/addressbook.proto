@@ -2,7 +2,7 @@
 syntax = "proto3";
 package pb;
 
-import "google/protobuf/timestamp.proto";
+// import "google/protobuf/timestamp.proto";
 // [END declaration]
 
 // The go_package option defines the import path of the package which will contain all the generated code for this file.
@@ -28,7 +28,7 @@ message Person {
 
   repeated PhoneNumber phones = 4;
 
-  google.protobuf.Timestamp last_updated = 5;
+  // google.protobuf.Timestamp last_updated = 5;
 }
 
 // Our address book file is just one of these.
